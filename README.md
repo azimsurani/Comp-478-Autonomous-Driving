@@ -1,6 +1,6 @@
 # Behavioral Cloning
 
-# dependencies for model include:
+# Dependencies for model include:
 - keras
 - cv2
 - matplotlib
@@ -9,7 +9,7 @@
 - pandas
 - ntpath
 
-# dependencies for server-client communication include:
+# Dependencies for server-client communication include:
 - socketio
 - eventlet
 - flask
@@ -17,10 +17,10 @@
 - PIL
 - cv2
 
-# link to Udacity Simulator
+# Link to Udacity Simulator
 https://github.com/udacity/self-driving-car-sim
 
-# steps
+# Steps
 - train the model
 - download the model / use existing one
 - create an environment and install the dependencies for the drive.py file
